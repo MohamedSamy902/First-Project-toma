@@ -1,0 +1,176 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Start Navbar */
+nav{
+    background-color: #222;
+}
+
+nav .container .collapse ul li a {
+    color: #fff !important;
+}
+
+nav .container .collapse ul li a:hover {
+    font-size: 18px;
+    background-color: #dc2525;
+}
+
+nav .container .collapse ul .dropdown .dropdown-menu {
+    background-color: #222;
+    color: #fff !important;
+}
+
+nav .container .collapse ul .dropdown .dropdown-menu a:hover{
+    font-size: 18px;
+    background-color: #dc2525;
+}
+
+nav .container a {
+    
+    color: #fff !important;
+
+}
+/* End Navbar */
+
+/* Start Slider */
+
+.carousel .carousel-inner .carousel-item img
+{
+    height: 500px !important;
+}
+
+/* End Slider */
+
+/* Start About */
+.about {
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+/* End About */
+
+/* Start  */
+.features {
+    background-color: #eee;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.features h1 {
+    padding-bottom: 30px;
+}
+
+.features .feat h4{
+    padding-top: 14px;
+}
+/* End  */
+
+.our_team {
+    background: url('../img/pexels-pixabay-267371.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 500px;
+    color: #fff;
+}
+
+/* .our_team h1 {
+    font-size: 2.6rem;
+
+} */
+
+.our_team .team {
+    background: rgba(2, 2, 2, 0.6);
+    color: #FFF;
+    min-height: 500px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.our_team .team h1 {
+    padding-bottom: 20px;
+}
+.our_team .team h4 {
+    padding-top: 20px;
+}
+
+.our_team .team img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/*  */
+.sklis {
+    padding-bottom: 70px;
+    padding-top: 40px;
+}
+
+.sklis h1 {
+    margin-bottom: 60px;
+}
+
+.sklis h3 {
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.sklis .progress {
+    height: 29px;
+    margin-bottom: 10px;
+    background-color: #eeeeee59;
+}
+
+.sklis .progress-bar {
+    line-height: 29px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    text-indent: 10px;
+}
+
+.sklis .team-info h2 {
+    padding-top: 30px;
+}
+
+/* End Slies */
+
+/* Start Section Contact Us */
+.contact-us {
+    background: url('../img/4.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.contact-us .fileds {
+    background: rgba(9, 9, 9, 0.7);
+    min-height: 300px;
+    color: #DDD;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.contact-us p {
+    margin-bottom: 40px;
+}
+
+.contact-us textarea {
+    height: 108px;
+}
+
+.contact-us input[type="text"],
+.contact-us textarea {
+    color: #FFF;
+    box-shadow: none;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    border-radius: 0px;
+}
+
+
+/* Start Section Contact Us */
+
